@@ -1,1 +1,2 @@
 # Aibud
+Hey AI bud
